@@ -1,0 +1,10 @@
+{
+  "type": "music",
+  "domain": "apple_music_2",
+  "name": "Apple Music Library",
+  "description": "Support for the Apple Music Library provider in Music Assistant.",
+  "codeowners": ["@maxlyth"],
+  "requirements": ["pywidevine==1.8.0"],
+  "documentation": "https://music-assistant.io/music-providers/apple-music-2/",
+  "multi_instance": true
+}
