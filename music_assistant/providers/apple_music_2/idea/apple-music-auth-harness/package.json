@@ -1,0 +1,12 @@
+{
+  "name": "apple-music-auth-harness",
+  "version": "1.0.0",
+  "description": "MusicKit Auth research",
+  "main": "index.js",
+  "author": "Max Lyth",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^5.1.0",
+    "express-session": "^1.18.1"
+  }
+}
